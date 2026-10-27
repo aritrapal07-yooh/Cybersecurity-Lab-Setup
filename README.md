@@ -195,6 +195,6 @@ Any future security testing will be restricted to systems I own or have explicit
 
 ## Author
 
-**ARITRA PAL**  
+Aritra Pal
 Computer Science Engineering Student  
 Interested in Cybersecurity and Ethical Hacking
