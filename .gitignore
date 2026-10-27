@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files that may contain secrets
+.env
+.env.*
+!.env.example
